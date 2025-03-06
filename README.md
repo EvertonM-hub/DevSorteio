@@ -11,5 +11,5 @@
 <p>Um desafio simples, porém complexo.</p>
 <br>
 <br>
-<img src= ("
+<img src= "https://github.com/EvertonM-hub/DevSorteio/blob/main/assets/2025-03-06.png">
 
