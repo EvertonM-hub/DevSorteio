@@ -8,6 +8,7 @@
 <p>CSS</p>
 <p>JavaScript</p>
 <p>Em JavaScript aprendemos a útilizar o método Math.Random() para fazer o sorteio de números aleatorios maiores que 0 e 1, onde o usuário escolhe o intervalo dos números a serem sorteados.</p>
+<p>O projeto também foi desenvolvido com responsividade para Mobile<p>
 <p>Um desafio simples, porém complexo.</p>
 <br>
 <br>
