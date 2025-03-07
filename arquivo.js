@@ -1,13 +1,12 @@
 function generateNumber(){
-    
 
-    const enter = Math.ceil (document. querySelector(".enter").value)
-    const until = Math.floor(document. querySelector(".until").value)
 
-   const result = Math.floor(Math.random() * (enter - until + 1)) + until;
+     const min = Math.ceil (document.querySelector(".input-min").value)
+     const max = Math.floor (document.querySelector(".input-max").value)
 
-    alert (result)
+     const result = Math.floor(Math.random() * (max - min + 1)) + min;
 
+          alert(result)
       }
 
 
